@@ -5,6 +5,8 @@ const getUserTrait = (username) => {
   switch (username) {
     case "Skidnik":
       return "pedophile";
+     case "clash_andrew":
+      return "kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans kil all cubans ";
     case "HateBored":
       return "rogue lineage entrepreneur";
     case "Arch_Mage":
